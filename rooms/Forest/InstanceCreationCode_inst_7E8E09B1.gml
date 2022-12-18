@@ -1,0 +1,1 @@
+text = "It's cold."

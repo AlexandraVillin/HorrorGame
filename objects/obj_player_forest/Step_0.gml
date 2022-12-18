@@ -32,10 +32,10 @@ if (vx != 0) {
 		sprite_index = blue_chatacter_walk_right;
 		dir = 0;
 		}
-//	if (vx < 0) {
-		//sprite_index = spr_player_walk_left;
-	//	dir = 2;
-	//	}	
+   if (vx < 0) {
+		sprite_index = blue_character_walk_left;
+		dir = 2;
+		}	
 	//if (vy > 0) {
 		//sprite_index = spr_player_walk_down;
 	//	dir = 3;

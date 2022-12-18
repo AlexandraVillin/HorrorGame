@@ -64,11 +64,12 @@
     "eventStubScript": null,
   },
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"59fcb67d-e720-4e61-b281-ed7c683601fd","visible":true,"isLocked":false,"blendMode":3,"opacity":100.0,"displayName":"default (2)",},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ad647653-6c8e-480a-b1c7-5fb6fef71fef","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "decor",
+    "path": "folders/Sprites/decor.yy",
   },
 }

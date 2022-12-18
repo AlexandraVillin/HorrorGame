@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Horror_Game",
-    "path": "Horror_Game.yyp",
+    "name": "HorrorGame",
+    "path": "HorrorGame.yyp",
   },
 }

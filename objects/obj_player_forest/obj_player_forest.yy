@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_player_forest",
   "spriteId": {
-    "name": "blue_character_idle_forest",
-    "path": "sprites/blue_character_idle_forest/blue_character_idle_forest.yy",
+    "name": "blue_character_idle",
+    "path": "sprites/blue_character_idle/blue_character_idle.yy",
   },
   "solid": false,
   "visible": true,
