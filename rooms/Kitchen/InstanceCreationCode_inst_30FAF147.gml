@@ -1,0 +1,1 @@
+text="Half-cut tomato. Whoever was here left in a rush."

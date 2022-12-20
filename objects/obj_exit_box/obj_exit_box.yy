@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_exit_forest",
+  "name": "obj_exit_box",
   "spriteId": {
     "name": "sprt_exitbox",
     "path": "sprites/sprt_exitbox/sprt_exitbox.yy",

@@ -1,0 +1,1 @@
+text = "There are children's drawings on the fridge. Surprisingly enough it also has food still in it."

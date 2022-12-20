@@ -1,0 +1,1 @@
+text = "The fireplace is still burning. There must be someone close, but where?"

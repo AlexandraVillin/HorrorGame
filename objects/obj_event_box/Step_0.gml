@@ -13,10 +13,8 @@ if(global.reading == false && read = true)
 {
 	instance_destroy(myTextbox)
 	myTextbox = noone;
-	if(read == true)
-	{
 	instance_destroy()
-	}
+	
 }
 
 

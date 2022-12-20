@@ -1,0 +1,1 @@
+text="It doesn't seem like anyone is home. I wonder what happened to them?"	

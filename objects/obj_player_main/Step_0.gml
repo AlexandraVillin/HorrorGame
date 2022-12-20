@@ -8,7 +8,8 @@ moveDown = keyboard_check(ord("S"));
 
 // Calculate movement
 vx = ((moveRight - moveLeft) * walkSpeed);
-vy = ((moveDown - moveUp) * walkSpeed);
+if(!room==Forest)
+{vy = ((moveDown - moveUp) * walkSpeed);}
 
 // Disable movement while reading a textbox
 if(global.reading == true)
@@ -62,3 +63,7 @@ if (vx < 0) {
 	//	dir = 1;
 	//	}	
 	}
+if(keyboard_check(ord("Z")))
+{
+	room_goto(Debug)
+}

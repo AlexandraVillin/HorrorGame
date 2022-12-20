@@ -1,3 +1,3 @@
 targetRoom = Entry_Corridor;
-targetX=590;
-targetY=600;
+targetX = 666;
+targetY = 385;
